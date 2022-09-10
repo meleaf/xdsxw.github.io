@@ -1,0 +1,18 @@
+Hi,今天来教大家白嫖winrar付费版，它是世界上最经典的解压软件，但其实是付费的，我们在国内使用的都是特供版，也就是30/40天许可版，时间过后如果不花钱也能继续使用，只不过会多了一些广告而已，如果花钱注册，那便没有广告。
+1在桌面新建一个TXT文档，将以下代码复制进去，然后点击左上角另存为
+RAR registration data
+Federal Agency for Education
+1000000 PC usage license
+UID=b621cca9a84bc5deffbf
+6412612250ffbf533df6db2dfe8ccc3aae5362c06d54762105357d
+5e3b1489e751c76bf6e0640001014be50a52303fed29664b074145
+7e567d04159ad8defc3fb6edf32831fd1966f72c21c0c53c02fbbb
+2f91cfca671d9c482b11b8ac3281cb21378e85606494da349941fa
+e9ee328f12dc73e90b6356b921fbfb8522d6562a6a4b97e8ef6c9f
+fb866be1e3826b5aa126a4d2bfe9336ad63003fc0e71c307fc2c60
+64416495d4c55a0cc82d402110498da970812063934815d81470829275
+2将文件名改为rarreg.key，点击保存。
+
+3将文件复制到winrar的文件夹。
+这样就可以了
+
